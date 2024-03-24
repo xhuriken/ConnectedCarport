@@ -7,3 +7,5 @@ The goal was:
 - Know percent of battery in scooter or bike who are plug on charge and show on gauge.
 - Turn on led when place is occuped.
 - Connect the carport to a server in which the mobile application retrieves and sends information in UDP
+
+(March 2023)
